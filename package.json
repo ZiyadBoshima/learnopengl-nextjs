@@ -1,5 +1,5 @@
 {
-  "name": "next-three",
+  "name": "learnopengl-nextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/fiber": "^8.15.9",
+    "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.1"
+    "sass": "^1.69.5"
   },
   "devDependencies": {
     "eslint": "^8",
